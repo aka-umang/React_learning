@@ -1,0 +1,21 @@
+body{
+  background-color: #0d0346;
+  color: aliceblue;
+  width:100%;
+}
+
+.card{
+  padding:10px;
+  background-color: rgb(168, 120, 56);
+  border-radius:10px;
+  margin:10px;
+}
+
+.navbar{
+  background-color: rgb(148, 196, 75);
+  padding:10px;
+  border-radius:10px;
+  margin:10px;
+  color:black;
+  font-weight:900
+}
